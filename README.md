@@ -56,14 +56,20 @@ plot_tree(dt, feature_names=x.columns, filled=True)
 plt.show() 
 ```
 ## Output:
-![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
 ![Screenshot 2024-11-28 103640](https://github.com/user-attachments/assets/4bb22582-591f-458f-9756-346c0bcd745e)
+
 ![Screenshot 2024-11-28 103648](https://github.com/user-attachments/assets/a5a7fafd-43fd-48a8-ad97-3a2c3f86598c)
+
 ![Screenshot 2024-11-28 103653](https://github.com/user-attachments/assets/9aa53115-fc64-4068-9e06-1bb1945f4ed7)
+
 ![Screenshot 2024-11-28 103704](https://github.com/user-attachments/assets/0d48dc0e-50aa-44d9-a9b1-49cdeec2fe36)
+
 ![Screenshot 2024-11-28 103712](https://github.com/user-attachments/assets/789d054f-e2a3-4aef-868a-a23ddd44de02)
+
 ![Screenshot 2024-11-28 103716](https://github.com/user-attachments/assets/52d406e0-1da4-44ad-83cb-62eba4a0be0c)
+
 ![Screenshot 2024-11-28 104224](https://github.com/user-attachments/assets/30b7448b-63c7-4d68-a40b-d277e7c2af8e)
+
 ![Screenshot 2024-11-28 103846](https://github.com/user-attachments/assets/81549c9a-4d3a-41da-ade8-a3f5a4343f7c)
 
 
